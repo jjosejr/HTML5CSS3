@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+body {
+  
+    text-align: center;
+
+  
+nav {
+    text-align: left;
+}
+
+h2 {
+    text-align: center;
+}
+
+
+p {
+    text-align: center;
+    text-indent: 30px;
+    text-align: justify;
+}
+
+
+img {
+    align-items: center;
+   justify-content: space-around;
+}
